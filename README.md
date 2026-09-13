@@ -1,4 +1,8 @@
-# my first github project 
+# my first github project
+
 im learning git and github
 this is my second atempt
-i seee
+i see
+
+i'm learning git on  my pc
+
