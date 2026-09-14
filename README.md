@@ -6,3 +6,4 @@ i see
 
 i'm learning git on  my pc
 
+need to send to pc
